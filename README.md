@@ -52,7 +52,7 @@ All examples are provided as separate projects in Java. Each example contains a 
 ###Output
 
 + Most examples will perform operations on documents and save them to the root of the SD card.
-+ Other examples display something  as 
++ Other examples display output on screen. 
 
 ##Download the Examples
 
@@ -63,9 +63,9 @@ Please [Download the Aspose.Words for Android Examples](https://github.com/aspos
 
 Firstly make sure that you have the ADT bundle installed and that you have downloaded and extracted the latest version of [Aspose.Words for Android](http://www.aspose.com/community/files/51/.net-components/aspose.words-for-.net/category1188.aspx).
 
-+ Extract the Aspose.Words.Android.jar from the latest release archive and add it to a new folder under the example you want to run. Add the file under a folder called "libs".
-+ Open the project in your workspace using Eclipse with ADT.
-+ Click Run to start and choose the appropriate emulator to run with.
+# Extract the Aspose.Words.Android.jar from the latest release archive and add it to a new folder under the example you want to run. Add the file under a folder called "libs".
+# Open the project in your workspace using Eclipse with ADT.
+# Click Run to start and choose the appropriate emulator to run with.
 
 ## Support and Contribution
 
