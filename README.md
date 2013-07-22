@@ -14,7 +14,7 @@ Using Aspose.Words for Android in your project gives you the following benefits:
 
 + Minimal Learning Curve
 
-These example projects provide helpful demonstrations and code when using Aspose.Words for Android. You will need to [download Aspose.Words for Android](http://www.aspose.com/community/files/51/.net-components/aspose.words-for-.net/default.aspx) separately and it will work in evaluation mode.
+These example projects provide helpful demonstrations and code when using Aspose.Words for Android. You will need to [download Aspose.Words for Android](http://www.aspose.com/community/files/74/android-apis/aspose-words-for-android/category1430.aspx) separately and it will work in evaluation mode.
 
 ## Aspose.Words for Android at a Glance
 ![Aspose.Words Overview](http://www.aspose.com/Aspose.Words/Images/aspose.words-for-android.jpg "The Main Features of Aspose.Words for Android")
@@ -61,7 +61,7 @@ Please [Download the Aspose.Words for Android Examples](https://github.com/aspos
 
 ##How to use the Examples?
 
-Firstly make sure that you have the ADT bundle installed and that you have downloaded and extracted the latest version of [Aspose.Words for Android](http://www.aspose.com/community/files/51/.net-components/aspose.words-for-.net/category1188.aspx).
+Firstly make sure that you have the ADT bundle installed and that you have downloaded and extracted the latest version of [Aspose.Words for Android](http://www.aspose.com/community/files/74/android-apis/aspose-words-for-android/category1430.aspx).
 
 # Extract the Aspose.Words.Android.jar from the latest release archive and add it to a new folder under the example you want to run. Add the file under a folder called "libs".
 # Open the project in your workspace using Eclipse with ADT.
@@ -83,7 +83,7 @@ We fix all bugs reported to us and try to implement all features requested by cu
 
 + **Website:** [www.aspose.com](http://www.aspose.com)
 + **Product Home:** [Aspose.Words for Android](http://www.aspose.com/categories/android-components/aspose.words-for-android/default.aspx)
-+ **Download:** [Download Aspose.Words for Android](http://www.aspose.com/community/files/51/.net-components/aspose.words-for-.net/category1188.aspx)
++ **Download:** [Download Aspose.Words for Android](http://www.aspose.com/community/files/74/android-apis/aspose-words-for-android/category1430.aspx)
 + **Documentation:** [Aspose.Words for Android Documentation](http://www.aspose.com/docs/display/wordsandroid/Home)
 + **Forum:** [Aspose.Words for Android Forum](http://www.aspose.com/community/forums/aspose.words-product-family/75/showforum.aspx)
 + **Blog:** [Aspose.Words for Android Blog](http://www.aspose.com/blogs/aspose-products/aspose-words-product-family.html)
