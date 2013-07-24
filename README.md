@@ -63,9 +63,9 @@ Please [Download the Aspose.Words for Android Examples](https://github.com/aspos
 
 Firstly make sure that you have the ADT bundle installed and that you have downloaded and extracted the latest version of [Aspose.Words for Android](http://www.aspose.com/community/files/74/android-apis/aspose-words-for-android/category1430.aspx).
 
-# Extract the Aspose.Words.Android.jar from the latest release archive and add it to a new folder under the example you want to run. Add the file under a folder called "libs".
-# Open the project in your workspace using Eclipse with ADT.
-# Click Run to start and choose the appropriate emulator to run with.
+1. Extract the Aspose.Words.Android.jar from the latest release archive and add it to a new folder under the example you want to run. Add the file under a folder called "libs".
+1. Open the project in your workspace using Eclipse with ADT.
+1. Click Run to start and choose the appropriate emulator to run with.
 
 ## Support and Contribution
 
