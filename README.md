@@ -17,7 +17,7 @@ Using Aspose.Words for Android in your project gives you the following benefits:
 These example projects provide helpful demonstrations and code when using Aspose.Words for Android. You will need to [download Aspose.Words for Android](http://www.aspose.com/community/files/74/android-apis/aspose-words-for-android/category1430.aspx) separately and it will work in evaluation mode.
 
 ## Aspose.Words for Android at a Glance
-![Aspose.Words Overview](http://www.aspose.com/Aspose.Words/Images/aspose.words-for-android.jpg "The Main Features of Aspose.Words for Android")
+![Aspose.Words Overview](http://www.aspose.com/app_themes/v2/images/Android/asposeWords/At-A-Glance.png "The Main Features of Aspose.Words for Android")
 
 ## Open Source Feel of Aspose.Words
 
