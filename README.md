@@ -41,8 +41,8 @@ All examples are provided as separate projects in Java. Each example contains a 
 
 <table>
   <tr><th>Example<th>Description</th></tr>
-  <tr><td>HelloWorld</td><td>Demonstrates how to add a watermark to a Microsoft Word document.</td></tr>
-  <tr><td>DocumentViewer</td><td>This example shows how invoke Aspose.Words to generate a Microsoft Word document when a user clicks a button or a link on a web page. The request to generate and the produced document are delivered using AJAX functionality in ASP.NET.</td></tr>
+  <tr><td>HelloWorld</td><td>Demonstrates how to create a simple document and save it to the external storage device in a variety of different formats.</td></tr>
+  <tr><td>DocumentViewer</td><td>Provides a simple Word document viewer which can load a document from disk and display it visually on screen.</td></tr>
 </table>
 
 ###Data
