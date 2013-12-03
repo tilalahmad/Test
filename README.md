@@ -1,10 +1,10 @@
-#Aspose.Words for Android Examples Repository
+#Aspose.Pdf for Android Examples Repository
 
-This package contains Java Example Projects for [Aspose.Words for Android](http://www.aspose.com/android/words-api.aspx).
+This package contains Java Example Projects for [Aspose.Pdf for Android](http://www.aspose.com/android/pdf-component.aspx).
 
-Aspose.Words for Android is a Java class library that enables your applications to perform a great range of document processing tasks. Aspose.Words supports DOC, DOCX, RTF, HTML, OpenDocument, PDF, XPS, EPUB and other formats. With Aspose.Words you can generate, modify, convert and render documents from your mobile device.
+Aspose.Pdf for Android is a PDF document creation and manipulation component that enables your Android applications to read, write and manipulate PDF documents without using any other third party application. It also allows you to create forms and manage form fields embedded in a PDF document.
 
-Using Aspose.Words for Android in your project gives you the following benefits:
+Using Aspose.Pdf for Android in your project gives you the following benefits:
 
 + Rich Set of Features
 
@@ -14,14 +14,14 @@ Using Aspose.Words for Android in your project gives you the following benefits:
 
 + Minimal Learning Curve
 
-These example projects provide helpful demonstrations and code when using Aspose.Words for Android. You will need to [download Aspose.Words for Android](http://www.aspose.com/community/files/74/android-apis/aspose.words-for-android/category1430.aspx) separately and it will work in evaluation mode.
+These example projects provide helpful demonstrations and code when using Aspose.Pdf for Android. You will need to [download Aspose.Pdf for Android](http://www.aspose.com/community/files/74/android-components/aspose.pdf-for-android/default.aspx) separately and it will work in evaluation mode.
 
-## Aspose.Words for Android at a Glance
-![Aspose.Words Overview](http://www.aspose.com/app_themes/v2/images/Android/asposeWords/At-A-Glance.png "The Main Features of Aspose.Words for Android")
+## Aspose.Pdf for Android at a Glance
+![Aspose.Pdf Overview](http://www.aspose.com/Aspose.Pdf/Images/asposePdf-forAndroid-At-A-Glance-diagram (1).png "The Main Features of Aspose.Pdf for Android")
 
-## Open Source Feel of Aspose.Words
+## Open Source Feel of Aspose.Pdf
 
-The Aspose.Words product family is a very successful set of commercial products, but our philosophy is to develop them using our unique "*open-source feel*" approach. In other words, we at Aspose are extremely customer driven and this shows in:
+The Aspose.Pdf product family is a very successful set of commercial products, but our philosophy is to develop them using our unique "*open-source feel*" approach. In other words, we at Aspose are extremely customer driven and this shows in:
 
 + Frequent releases (at least 1-2 a month).
 + Features are prioritized according to your requests.
@@ -31,7 +31,7 @@ The Aspose.Words product family is a very successful set of commercial products,
 
 We think that customers who use our products feel that they use an open source product because of the extent they can influence the project, but with the security of a fully committed talented team working on the project.
 
-The Aspose.Words for Android examples published here at GitHub is a part of the above effort.
+The Aspose.Pdf for Android examples published here at GitHub is a part of the above effort.
 
 ##What's Included in this Examples Repository?
 
@@ -41,8 +41,12 @@ All examples are provided as separate projects in Java. Each example contains a 
 
 <table>
   <tr><th>Example<th>Description</th></tr>
-  <tr><td>HelloWorld</td><td>Demonstrates how to create a simple document and save it to the external storage device in a variety of different formats.</td></tr>
-  <tr><td>DocumentViewer</td><td>Provides a simple Word document viewer which can load a document from disk and display it visually on screen.</td></tr>
+  <tr><td>HelloWorld</td><td>Demonstrates how to create a simple PDF document from scratch and save it to root of SD card.</td></tr>
+  <tr><td>AddTextStamp</td><td>Demonstrates how to add text stamp to an existing PDF document and save it to root of SD card.</td></tr>
+  <tr><td>ConcatenatePDFFiles</td><td>Demonstrates how to merge PDF documents to a single PDF document and save it to root of SD card.</td></tr>
+  <tr><td>EncryptPDFFile</td><td>This example demostrates how to encrypt PDF file using Aspose.Pdf for Android and saving it to root of SD card.</td></tr>
+  <tr><td>ExtractText</td><td>Provides a simple example to extract text from a PDF document and save it to root of SD card.</td></tr>
+  <tr><td>InsertImageDOM</td><td>This example shows how easly we can add image to existing PDF document.</td></tr>
 </table>
 
 ###Data
@@ -51,20 +55,20 @@ All examples are provided as separate projects in Java. Each example contains a 
 
 ###Output
 
-+ Most examples will perform operations on documents and save them to the root of the SD card.
-+ Other examples display output on screen. 
++ Examples will perform operations on documents and save them to the root of the SD card.
 
 ##Download the Examples
 
-Please [Download the Aspose.Words for Android Examples](https://github.com/asposewords/Aspose_Words_Android/archive/master.zip) to try them at your end.
+Please [Download the Aspose.Pdf for Android Examples](https://github.com/asposepdf/Aspose_Pdf_Android/archive/master.zip) to try them at your end.
 
 
 ##How to use the Examples?
 
-Firstly make sure that you have the ADT bundle installed and that you have downloaded and extracted the latest version of [Aspose.Words for Android](http://www.aspose.com/community/files/74/android-apis/aspose.words-for-android/category1430.aspx).
+Firstly make sure that you have the ADT bundle installed and that you have downloaded and extracted the latest version of [Aspose.Pdf for Android](http://www.aspose.com/community/files/74/android-components/aspose.pdf-for-android/default.aspx).
 
-1. Extract the Aspose.Words.Android.jar from the latest release archive and add it to a new folder under the example you want to run. Add the file under a folder called "libs".
+1. Extract the Aspose.Pdf.Android.jar from the latest release archive and add it to a "libs" folder under the example you want to run.
 1. Open the project in your workspace using Eclipse with ADT.
+1. Update input/output file names.
 1. Click Run to start and choose the appropriate emulator to run the package on.
 
 ## Support and Contribution
@@ -75,15 +79,15 @@ You can contribute by reviewing and sending feedback by trying out new features 
 
 ## What to do if I encounter a Problem or a Bug?
 
-We provide full technical support to everyone, regardless of whether they have purchased a license, or are just evaluating the product. Please post a message on the Aspose.Words forum with a description of your issue and any input document/code. We will reply within 12-24 hours with some helpful feedback.
+We provide full technical support to everyone, regardless of whether they have purchased a license, or are just evaluating the product. Please post a message on the Aspose.Pdf forum with a description of your issue and any input document/code. We will reply within 12-24 hours with some helpful feedback.
 
-We fix all bugs reported to us and try to implement all features requested by customers. To submit a bug report or for any general inquries, please post a message in the [Aspose.Words Forum](http://www.aspose.com/community/forums/aspose.words-product-family/75/showforum.aspx).
+We fix all bugs reported to us and try to implement all features requested by customers. To submit a bug report or for any general inquries, please post a message in the [Aspose.Pdf Forum](http://www.aspose.com/community/forums/aspose.pdf-product-family/20/showforum.aspx).
 
 ##Contact Us
 
 + **Website:** [www.aspose.com](http://www.aspose.com)
-+ **Product Home:** [Aspose.Words for Android](http://www.aspose.com/android/words-api.aspx)
-+ **Download:** [Download Aspose.Words for Android](http://www.aspose.com/community/files/74/android-apis/aspose.words-for-android/category1430.aspx)
-+ **Documentation:** [Aspose.Words for Android Documentation](http://www.aspose.com/docs/display/wordsandroid/Home)
-+ **Forum:** [Aspose.Words for Android Forum](http://www.aspose.com/community/forums/aspose.words-product-family/75/showforum.aspx)
-+ **Blog:** [Aspose.Words for Android Blog](http://www.aspose.com/blogs/aspose-products/aspose-words-product-family.html)
++ **Product Home:** [Aspose.Pdf for Android](http://www.aspose.com/android/pdf-component.aspx)
++ **Download:** [Download Aspose.Pdf for Android](http://www.aspose.com/community/files/74/android-components/aspose.pdf-for-android/default.aspx)
++ **Documentation:** [Aspose.Pdf for Android Documentation](http://www.aspose.com/docs/display/pdfandroid/Home)
++ **Forum:** [Aspose.Pdf for Android Forum](http://www.aspose.com/community/forums/aspose.pdf-product-family/20/showforum.aspx)
++ **Blog:** [Aspose.Pdf for Android Blog](http://www.aspose.com/blogs/aspose-products/aspose-pdf-product-family.html)
