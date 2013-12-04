@@ -17,7 +17,7 @@ Using Aspose.Pdf for Android in your project gives you the following benefits:
 These example projects provide helpful demonstrations and code when using Aspose.Pdf for Android. You will need to [download Aspose.Pdf for Android](http://www.aspose.com/community/files/74/android-components/aspose.pdf-for-android/default.aspx) separately and it will work in evaluation mode.
 
 ## Aspose.Pdf for Android at a Glance
-![Aspose.Pdf Overview](http://www.aspose.com/Aspose.Pdf/Images/Aspose.Pdf-for-Android-Supported-file-formats-diagram.png "The Main Features of Aspose.Pdf for Android")
+![Aspose.Pdf Overview](http://www.aspose.com/Aspose.Pdf/Images/Aspose.Pdf-for-Android-At-A-Glance-diagram.png "The Main Features of Aspose.Pdf for Android")
 
 ## Open Source Feel of Aspose.Pdf
 
@@ -44,7 +44,7 @@ All examples are provided as separate projects in Java. Each example contains a 
   <tr><td>HelloWorld</td><td>Demonstrates how to create a simple PDF document from scratch and save it to root of SD card.</td></tr>
   <tr><td>AddTextStamp</td><td>Demonstrates how to add text stamp to an existing PDF document and save it to root of SD card.</td></tr>
   <tr><td>ConcatenatePDFFiles</td><td>Demonstrates how to merge PDF documents to a single PDF document and save it to root of SD card.</td></tr>
-  <tr><td>EncryptPDFFile</td><td>This example demostrates how to encrypt PDF file using Aspose.Pdf for Android and saving it to root of SD card.</td></tr>
+  <tr><td>EncryptPDFFile</td><td>This example demonstrates how to encrypt PDF file using Aspose.Pdf for Android and saving it to root of SD card.</td></tr>
   <tr><td>ExtractText</td><td>Provides a simple example to extract text from a PDF document and save it to root of SD card.</td></tr>
   <tr><td>InsertImageDOM</td><td>This example shows how easly we can add image to existing PDF document.</td></tr>
 </table>
