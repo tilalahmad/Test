@@ -17,7 +17,7 @@ Using Aspose.Pdf for Android in your project gives you the following benefits:
 These example projects provide helpful demonstrations and code when using Aspose.Pdf for Android. You will need to [download Aspose.Pdf for Android](http://www.aspose.com/community/files/74/android-components/aspose.pdf-for-android/default.aspx) separately and it will work in evaluation mode.
 
 ## Aspose.Pdf for Android at a Glance
-![Aspose.Pdf Overview](http://www.aspose.com/Aspose.Pdf/Images/asposePdf-forAndroid-At-A-Glance-diagram.png "The Main Features of Aspose.Pdf for Android")
+![Aspose.Pdf Overview](http://www.aspose.com/Aspose.Pdf/Images/asposePdf-forAndroid-At-A-Glance-diagram (1).png "The Main Features of Aspose.Pdf for Android")
 
 ## Open Source Feel of Aspose.Pdf
 
